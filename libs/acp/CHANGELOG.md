@@ -1,5 +1,12 @@
 # deepagents-acp
 
+## 0.1.41
+
+### Patch Changes
+
+- Updated dependencies [`160ebed`]:
+  - deepagents@1.16.4
+
 ## 0.1.40
 
 ### Patch Changes
